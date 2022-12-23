@@ -1,0 +1,6 @@
+It's a pleasure to have you here. Thank you for taking the time.
+I'm Vaibhav Mojidra, and I'm passionate about developing software applications. Moreover, towards Mobile App development.
+On this website you can see all the apps I've developed. Some of them are also available on Google Play Store.
+On top of that, this website additionally shows off my Education, Work Experience, Skills, and other coding practices in shape of Github Repositories.
+I'd appreciate it if you could have a peek at this site.
+My Website : https://vaibhavmojidra.github.io/site/
